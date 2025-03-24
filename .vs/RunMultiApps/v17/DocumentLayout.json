@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinh\\RunMultiApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|d:\\laptrinh\\runmultiapps\\runmultiapps.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|solutionrelative:runmultiapps.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|d:\\laptrinh\\runmultiapps\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|d:\\laptrinh\\runmultiapps\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|d:\\laptrinh\\runmultiapps\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|d:\\laptrinh\\runmultiapps\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|d:\\laptrinh\\runmultiapps\\fontmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94092D4C-EC54-4A52-89FA-77E50C1DFFE5}|RunMultiApps.csproj|solutionrelative:fontmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\RunMultiApps\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\LapTrinh\\RunMultiApps\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:42:02.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FontManager.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\RunMultiApps\\FontManager.cs",
+              "RelativeDocumentMoniker": "FontManager.cs",
+              "ToolTip": "D:\\LapTrinh\\RunMultiApps\\FontManager.cs",
+              "RelativeToolTip": "FontManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:29:19.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\LapTrinh\\RunMultiApps\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "D:\\LapTrinh\\RunMultiApps\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-24T14:25:51.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\LapTrinh\\RunMultiApps\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\LapTrinh\\RunMultiApps\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:03:38.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RunMultiApps",
+              "DocumentMoniker": "D:\\LapTrinh\\RunMultiApps\\RunMultiApps.csproj",
+              "RelativeDocumentMoniker": "RunMultiApps.csproj",
+              "ToolTip": "D:\\LapTrinh\\RunMultiApps\\RunMultiApps.csproj",
+              "RelativeToolTip": "RunMultiApps.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T14:00:04.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinh\\RunMultiApps\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\LapTrinh\\RunMultiApps\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:58:29.653Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
