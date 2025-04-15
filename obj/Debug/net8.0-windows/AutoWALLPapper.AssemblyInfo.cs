@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoWALLPapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+167f34e072efe8f0cefd9450d1c1376e137bedc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+060d34d8f36243a49e928cbca3a489b657a2e844")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoWALLPapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoWALLPapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
