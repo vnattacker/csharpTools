@@ -94,6 +94,8 @@ namespace AutoWALLPapper
 
                 SetWallpaper(wallpaperPath);
             }
+
+            Application.Exit();
         }
 
         private async Task<List<string>> GetImageUrlsFromInput(string htmlUrl)
@@ -164,7 +166,7 @@ namespace AutoWALLPapper
             trayIcon = new NotifyIcon();
             trayIcon.Text = "AgiliWallpaperAgent";
             trayIcon.Icon = SystemIcons.Application;
-            trayIcon.Visible = true;
+            trayIcon.Visible = false;
 
             ContextMenuStrip trayMenu = new ContextMenuStrip();
             trayMenu.Items.Add("Thoát", null, (s, e) => Application.Exit());

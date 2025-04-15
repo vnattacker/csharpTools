@@ -20,3 +20,4 @@ D:\LapTrinh\AutoWALLPapper\obj\Debug\net8.0-windows\refint\AutoWALLPapper.dll
 D:\LapTrinh\AutoWALLPapper\obj\Debug\net8.0-windows\AutoWALLPapper.pdb
 D:\LapTrinh\AutoWALLPapper\obj\Debug\net8.0-windows\AutoWALLPapper.genruntimeconfig.cache
 D:\LapTrinh\AutoWALLPapper\obj\Debug\net8.0-windows\ref\AutoWALLPapper.dll
+D:\LapTrinh\AutoWALLPapper\obj\Debug\net8.0-windows\AutoWALLPapper.sourcelink.json

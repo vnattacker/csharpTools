@@ -1,0 +1,9 @@
+D:\LapTrinh\AutoWALLPapper\bin\Release\net8.0-windows\publish\AutoWALLPapper.exe
+D:\LapTrinh\AutoWALLPapper\bin\Release\net8.0-windows\publish\AutoWALLPapper.dll
+D:\LapTrinh\AutoWALLPapper\bin\Release\net8.0-windows\publish\AutoWALLPapper.deps.json
+D:\LapTrinh\AutoWALLPapper\bin\Release\net8.0-windows\publish\AutoWALLPapper.runtimeconfig.json
+D:\LapTrinh\AutoWALLPapper\bin\Release\net8.0-windows\publish\AutoWALLPapper.pdb
+D:\LapTrinh\AutoWALLPapper\bin\Release\net8.0-windows\publish\HtmlAgilityPack.dll
+D:\LapTrinh\AutoWALLPapper\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll
+D:\LapTrinh\AutoWALLPapper\bin\Release\net8.0-windows\publish\Newtonsoft.Json.pdb
+D:\LapTrinh\AutoWALLPapper\bin\Release\net8.0-windows\publish\Newtonsoft.Json.xml
